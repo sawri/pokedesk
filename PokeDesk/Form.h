@@ -12,15 +12,24 @@ private:
 	int formId;
 	int pokeId;
 	string name;
-	vector<Ability> abilities;
+	
 	int stats[6];
 
 public:
+	vector<Ability> abilities;
 	Form();
 	Form(string formName, int pkmnid, int formid);
 	void addAbility(Ability ab);
 	void addStats(int statId, int statVal);
 	int getPokeId();
 	void display();
+	void displayName();
+	void displayAbils(int slot);
+	void displayHP();
+	void displayAtk();
+	void displayDef();
+	void displaySpAtk();
+	void displaySpDef();
+	void displaySpd();
 };
 #endif

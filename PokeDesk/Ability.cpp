@@ -25,7 +25,7 @@ void Ability::display() {
 	name[0] = toupper(name[0]);
 	cout << slot << ". " << name;
 	if (hidden) {
-		cout << " (Hidden ability)";
+		cout << " (HA)";
 	}
-	cout << endl;
+	
 }

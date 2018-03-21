@@ -37,3 +37,28 @@ void Form::display() {
 	cout << endl;
 	cout << endl;
 }
+void Form::displayName() {
+	name[0] = toupper(name[0]);
+	cout << this->pokeId << ". " << this->name;
+}
+void Form::displayAbils(int slot) {
+	abilities[slot].display();
+}
+void Form::displayHP() {
+	cout << stats[0];
+}
+void Form::displayAtk() {
+	cout << stats[1];
+}
+void Form::displayDef() {
+	cout << stats[2];
+}
+void Form::displaySpAtk() {
+	cout << stats[3];
+}
+void Form::displaySpDef() {
+	cout << stats[4];
+}
+void Form::displaySpd() {
+	cout << stats[5];
+}
