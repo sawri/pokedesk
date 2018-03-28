@@ -15,4 +15,4 @@ This program only applies to Generation 7.
 
 # Credits to:
 
-* Veekun of Github for his/her various .csv files!
+[Veekun of Github for his/her super helpful database!] (https://github.com/veekun/pokedex/tree/master/pokedex/data/csv)
