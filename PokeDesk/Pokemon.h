@@ -14,6 +14,7 @@ private:
 	unsigned id;
 	string name;
 	vector<Ability> abilities;
+	vector<string> types;
 	int stats[6];
 	//form: new class. has own ability and stats. 
 	//not all pokemon will have another form.
@@ -24,6 +25,7 @@ public:
 	Pokemon();
 	Pokemon(unsigned num, string nam);
 	string getName();
+	void addType(string typeName);
 	void addAbility(Ability ab);
 	void addStats(int statid, int statVal);
 	void addForm(Form alt);

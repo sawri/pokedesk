@@ -30,6 +30,9 @@
     <ClInclude Include="Form.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Description.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -45,6 +48,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Form.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Description.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -68,6 +74,12 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="formstats.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="pokemontypes.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="formtypes.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>

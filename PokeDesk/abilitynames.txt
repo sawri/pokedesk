@@ -1,233 +1,233 @@
-1	stench
-2	drizzle
-3	speed-boost
-4	battle-armor
-5	sturdy
-6	damp
-7	limber
-8	sand-veil
-9	static
-10	volt-absorb
-11	water-absorb
-12	oblivious
-13	cloud-nine
-14	compound-eyes
-15	insomnia
-16	color-change
-17	immunity
-18	flash-fire
-19	shield-dust
-20	own-tempo
-21	suction-cups
-22	intimidate
-23	shadow-tag
-24	rough-skin
-25	wonder-guard
-26	levitate
-27	effect-spore
-28	synchronize
-29	clear-body
-30	natural-cure
-31	lightning-rod
-32	serene-grace
-33	swift-swim
-34	chlorophyll
-35	illuminate
-36	trace
-37	huge-power
-38	poison-point
-39	inner-focus
-40	magma-armor
-41	water-veil
-42	magnet-pull
-43	soundproof
-44	rain-dish
-45	sand-stream
-46	pressure
-47	thick-fat
-48	early-bird
-49	flame-body
-50	run-away
-51	keen-eye
-52	hyper-cutter
-53	pickup
-54	truant
-55	hustle
-56	cute-charm
-57	plus
-58	minus
-59	forecast
-60	sticky-hold
-61	shed-skin
-62	guts
-63	marvel-scale
-64	liquid-ooze
-65	overgrow
-66	blaze
-67	torrent
-68	swarm
-69	rock-head
-70	drought
-71	arena-trap
-72	vital-spirit
-73	white-smoke
-74	pure-power
-75	shell-armor
-76	air-lock
-77	tangled-feet
-78	motor-drive
-79	rivalry
-80	steadfast
-81	snow-cloak
-82	gluttony
-83	anger-point
-84	unburden
-85	heatproof
-86	simple
-87	dry-skin
-88	download
-89	iron-fist
-90	poison-heal
-91	adaptability
-92	skill-link
-93	hydration
-94	solar-power
-95	quick-feet
-96	normalize
-97	sniper
-98	magic-guard
-99	no-guard
-100	stall
-101	technician
-102	leaf-guard
-103	klutz
-104	mold-breaker
-105	super-luck
-106	aftermath
-107	anticipation
-108	forewarn
-109	unaware
-110	tinted-lens
-111	filter
-112	slow-start
-113	scrappy
-114	storm-drain
-115	ice-body
-116	solid-rock
-117	snow-warning
-118	honey-gather
-119	frisk
-120	reckless
-121	multitype
-122	flower-gift
-123	bad-dreams
-124	pickpocket
-125	sheer-force
-126	contrary
-127	unnerve
-128	defiant
-129	defeatist
-130	cursed-body
-131	healer
-132	friend-guard
-133	weak-armor
-134	heavy-metal
-135	light-metal
-136	multiscale
-137	toxic-boost
-138	flare-boost
-139	harvest
-140	telepathy
-141	moody
-142	overcoat
-143	poison-touch
-144	regenerator
-145	big-pecks
-146	sand-rush
-147	wonder-skin
-148	analytic
-149	illusion
-150	imposter
-151	infiltrator
-152	mummy
-153	moxie
-154	justified
-155	rattled
-156	magic-bounce
-157	sap-sipper
-158	prankster
-159	sand-force
-160	iron-barbs
-161	zen-mode
-162	victory-star
-163	turboblaze
-164	teravolt
-165	aroma-veil
-166	flower-veil
-167	cheek-pouch
-168	protean
-169	fur-coat
-170	magician
-171	bulletproof
-172	competitive
-173	strong-jaw
-174	refrigerate
-175	sweet-veil
-176	stance-change
-177	gale-wings
-178	mega-launcher
-179	grass-pelt
-180	symbiosis
-181	tough-claws
-182	pixilate
-183	gooey
-184	aerilate
-185	parental-bond
-186	dark-aura
-187	fairy-aura
-188	aura-break
-189	primordial-sea
-190	desolate-land
-191	delta-stream
-192	stamina
-193	wimp-out
-194	emergency-exit
-195	water-compaction
-196	merciless
-197	shields-down
-198	stakeout
-199	water-bubble
-200	steelworker
-201	berserk
-202	slush-rush
-203	long-reach
-204	liquid-voice
-205	triage
-206	galvanize
-207	surge-surfer
-208	schooling
-209	disguise
-210	battle-bond
-211	power-construct
-212	corrosion
-213	comatose
-214	queenly-majesty
-215	innards-out
-216	dancer
-217	battery
-218	fluffy
-219	dazzling
-220	soul-heart
-221	tangling-hair
-222	receiver
-223	power-of-alchemy
-224	beast-boost
-225	rks-system
-226	electric-surge
-227	psychic-surge
-228	misty-surge
-229	grassy-surge
-230	full-metal-body
-231	shadow-shield
-232	prism-armor
-233	neuroforce
+1	stench When-attacking,-this-pokemon-has-a-10%-chance-to-cause-the-target-to-flinch.
+2	drizzle Upon-entering-battle,-causes-rainy-weather-for-five-turns.-(7-if-damp-rock-is-equipped.)
+3	speed-boost Speed-stat-is-raised-a-stage-at-the-end-of-every-turn.
+4	battle-armor Protects-the-pokemon-from-critical-hits.
+5	sturdy Cannot-be-knocked-out-in-one-hit.
+6	damp Prevents-the-use-of-explosive-moves-such-as-Self-Destruct,-Explosion,-and-Mind-Blown.-Additionally,-prevents-the-ability-Aftermath-from-doing-damage.
+7	limber Protects-the-Pokemon-from-paralysis.
+8	sand-veil Boosts-the-Pokemon's-evasion-in-a-sandstorm.
+9	static Contact-with-this-Pokemon-may-cause-paralysis.
+10	volt-absorb Restores-HP-if-hit-by-an-Electric-type-move,-instead-of-taking-damage.
+11	water-absorb Restores-HP-if-hit-by-a-Water-type-move,-instead-of-taking-damage.
+12	oblivious Prevents-the-Pokemon-from-being-infatuated-and-also-prevents-being-afflicted-by-Taunt.
+13	cloud-nine When-this-Pokemon-enters-the-battle,-the-effects-of-all-weather-are-eliminated.
+14	compound-eyes Raises-accuracy-by-30%-of-a-move's-original-accuracy-in-battle.
+15	insomnia Prevents-the-Pokemon-from-falling-asleep.
+16	color-change The-Pokemon's-type-becomes-the-type-of-the-move-used-on-it.
+17	immunity Prevents-the-Pokemon-from-being-poisoned.
+18	flash-fire Powers-up-the-Pokemon's-fire-type-moves-if-it's-hit-by-one.
+19	shield-dust When-this-Pokemon-is-damaged,-any-additional-effects-are-negated.
+20	own-tempo Prevents-the-Pokemon-from-becoming-confused.
+21	suction-cups Prevents-the-Pokemon-from-being-forced-to-switch-out.
+22	intimidate Upon-entering-battle,-lowers-the-opposing-Pokemon's-attack-by-one-stage.
+23	shadow-tag Prevents-the-opposing-Pokemon-from-escaping.-Ghost-type-Pokemon-are-immune-to-this.
+24	rough-skin When-this-Pokemon-is-hit-by-a-move-that-makes-contact,-the-attacking-Pokemon-takes-damage-equal-to-1/16-of-its-own-maximum-HP.
+25	wonder-guard Only-super-effective-attacks-will-effect-the-Pokemon.
+26	levitate This-Pokemon-is-immune-to-Ground-type-moves-(except-Thousand-Arrows).-It-is-also-unaffected-by-Arena-Trap,-Spikes,-Toxic-Spikes,-Sticky-Web,-Rototiller,-and-terrain.
+27	effect-spore Contact-with-the-Pokemon-may-inflict-poison,-sleep,-or-paralysis-on-its-attacker.
+28	synchronize The-attacker-will-receive-the-same-status-condition-if-it-inflicts-a-burn,-poison,-or-paralysis-to-the-Pokemon.
+29	clear-body Prevents-other-Pokemon's-moves-or-Abilities-from-lowering-the-Pokemon's-stats.
+30	natural-cure All-status-conditions-heal-when-the-Pokemon-switches-out.
+31	lightning-rod The-Pokemon-draws-in-all-Electric-type-moves-and-raises-its-Sp.-Atk-by-one-stage-when-hit-by-one.
+32	serene-grace Boosts-the-likelihood-of-additional-effects-occuring-when-attacking.
+33	swift-swim Boosts-the-Pokemon's-Speed-stat-in-the-rain.
+34	chlorophyll Boosts-the-Pokemon's-Speed-stat-in-harsh-sunlight.
+35	illuminate Raises-the-likelihood-of-meeting-wild-Pokemon.
+36	trace Upon-entering-battle,-the-Pokemon-copies-an-opposing-Pokemon's-Ability.
+37	huge-power Doubles-the-Pokemon's-Attack-stat.
+38	poison-point Contact-with-the-Pokemon-may-poison-the-attacker.
+39	inner-focus Protects-the-Pokemon-from-flinching.
+40	magma-armor Prevents-the-Pokemon-from-becoming-frozen.
+41	water-veil Prevents-the-Pokemon-from-getting-burned.
+42	magnet-pull Prevents-Steel-type-Pokemon-from-escaping.
+43	soundproof Gives-the-Pokemon-immunity-to-all-sound-based-moves.
+44	rain-dish This-Pokemon-regains-1/16-of-its-maximum-HP-at-the-end-of-each-turn-while-it-is-raining.
+45	sand-stream Upon-entering-battle,-this-Pokemon-summons-a-sandstorm.
+46	pressure When-a-Pokemon-with-Pressure-is-targeted-by-a-foe's-move,-one-additional-PP-is-deducted-upon-execution.
+47	thick-fat Halves-damage-taken-from-Fire-and-Ice-type-moves.
+48	early-bird This-Pokemon-awakens-twice-as-fast-as-other-Pokemon-from-sleep.
+49	flame-body Contact-with-this-Pokemon-may-burn-the-attacker.
+50	run-away Enables-a-sure-getaway-from-wild-Pokemon.
+51	keen-eye Prevents-other-Pokemon-from-lowering-this-Pokemon's-accuracy.
+52	hyper-cutter Prevents-other-Pokemon-from-lowering-this-Pokemon's-Attack-stat.
+53	pickup The-Pokemon-may-pick-up-items.
+54	truant The-Pokemon-can't-attack-on-consecutive-turns.
+55	hustle Boosts-the-Attack-stat,-but-lowers-accuracy.
+56	cute-charm Contact-with-the-Pokemon-may-cause-infatuation.
+57	plus Boosts-the-Sp.Atk-of-the-Pokemon-if-an-ally-with-the-Plus-or-Minus-ability-is-also-in-battle.
+58	minus Boosts-the-Sp.Atk-of-the-Pokemon-if-an-ally-with-the-Plus-or-Minus-abiility-is-also-in-battle.
+59	forecast Changes-Castform's-form-to-match-the-weather,-also-changing-its-type.
+60	sticky-hold Items-held-by-the-Pokemon-are-stuck-fast-and-cannot-be-removed-by-other-Pokemon.
+61	shed-skin The-Pokemon-has-a-30%-chance-of-curing-the-Pokemon-of-a-non-volatile-status-condition.
+62	guts Boosts-the-Attack-stat-if-the-Pokemon-has-a-status-condition.
+63	marvel-scale Boosts-the-Defense-stat-if-the-Pokemon-has-a-status-condition.
+64	liquid-ooze -Damages-attackers-when-they-attempt-to-use-any-draining-moves. 
+65	overgrow Powers-up-Grass-moves-when-the-Pokemon's-HP-is-low.
+66	blaze Powers-up-Fire-moves-when-the-Pokemon's-HP-is-low.
+67	torrent Powers-up-Water-moves-when-the-Pokemon's-HP-is-low.
+68	swarm Powers-up-Bug-moves-when-the-Pokemon's-HP-is-low.
+69	rock-head Protects-the-Pokemon-from-recoil-damage.
+70	drought Turns-the-sunlight-harsh-when-the-Pokemon-enters-the-battle.
+71	arena-trap Prevents-opposing-grounded-Pokemon-from-fleeing.
+72	vital-spirit Prevents-the-Pokemon-from-falling-asleep.
+73	white-smoke Prevents-other-Pokemon-from-lowering-its-stats.
+74	pure-power Doubles-the-Pokemon's-Attack-stat.
+75	shell-armor The-Pokemon-is-protected-from-critical-hits.
+76	air-lock Eliminates-the-effects-of-weather.
+77	tangled-feet Raises-evasion-if-the-Pokemon-is-confused.
+78	motor-drive Raises-speed-if-hit-by-an-Electric-move.
+79	rivalry Boosts-the-power-of-an-attack-by-25%-if-the-target-and-the-Pokemon-with-this-ability-have-the-same-gender,-but-reduces-base-power-by-25%-if-they-have-opposite-genders.
+80	steadfast Raises-Speed-each-time-the-Pokemon-flinches.
+81	snow-cloak Raises-evasion-in-a-hailstorm.
+82	gluttony Makes-the-Pokemon-eat-a-held-berry-when-its-HP-drops-to-half-or-less,-which-is-sooner-than-usual.
+83	anger-point When-hit-by-a-critical-hit,-this-Pokemon's-Attack-stat-is-maxed.
+84	unburden Raises-Speed-stat-by-one-stage-when-the-held-item-is-used-or-lost.
+85	heatproof Weakens-the-power-of-Fire-type-moves.
+86	simple Doubles-the-number-of-stages-that-a-stat-is-increased-when-the-move,-Ability,-or-item-is-used.
+87	dry-skin Restores-HP-in-rain-or-when-hit-by-Water-moves.-Reduces-HP-in-sunshine,-and-increases-the-damage-received-from-Fire-type-moves.
+88	download Compares-an-opposing-Pokemon's-Defense-and-Sp.Def-stats-before-raising-its-own-Attack-or-Sp.Atk-stat,-whichever-will-be-more-effective.
+89	iron-fist Increases-the-power-of-punching-moves-by-20%.
+90	poison-heal If-the-Pokemon-is-poisoned-or-badly-poisoned,-it-will-gain-1/8-of-its-maximum-HP-at-the-end-of-each-turn-instead-of-taking-damage.
+91	adaptability Increases-STAB-from-1.5x-to-2.0x.
+92	skill-link Maximizes-the-number-of-times-multi-strike-moves-hit.
+93	hydration Heals-status-problems-if-it-is-raining.
+94	solar-power In-harsh-sunlight,-Solar-Power-increases-the-Pokemon's-Sp.Atk-by-1.5x,-but-the-Pokemon-loses-1/8-of-its-maximum-HP-at-the-end-of-each-turn.
+95	quick-feet Boosts-the-Speed-stat-if-the-Pokemon-has-a-status-condition.
+96	normalize All-the-Pokemon's-moves-become-normal-type-and-the-power-of-those-moves-is-boosted-by-20%.
+97	sniper Critical-hits-will-do-1.5x-the-normal-critical-hit-damage-(i.e-2.25x-instead-of-1.5x).
+98	magic-guard Prevents-indirect-damage,-such-as-from-weather,-poison,-Curse,-entry-hazards,-recoil,-crash-damage,-and-damage-from-Mind-Blown.
+99	no-guard Ensures-attacks-by-or-against-the-Pokemon-land.
+100	stall The-Pokemon-moves-after-all-other-Pokemon-do,-regardless-of-its-Speed-and-Trick-Room.
+101	technician Increases-the-power-of-moves-which-have-a-power-of-60-or-less-by-50%.
+102	leaf-guard Prevents-status-conditions-in-sunny-weather.
+103	klutz This-Pokemon-cannot-use-any-held-items.
+104	mold-breaker Moves-can-be-used-on-the-target-regardless-of-its-Abilities.
+105	super-luck Increases-the-critical-hit-ratio-by-1-stage.
+106	aftermath Damages-the-attacker-if-its-contacts-the-Pokemon-with-a-finishing-hit.
+107	anticipation The-Pokemon-can-sense-an-opposing-Pokemon's-dangerous-moves.
+108	forewarn When-entering-the-battle,-the-Pokemon-can-tell-one-of-the-moves-an-opposing-Pokemon-has.
+109	unaware When-attacking,-the-Pokemon-ignores-the-target-Pokemon's-stat-changes.
+110	tinted-lens Doubles-the-damage-done-by-any-moves-that-the-Pokemon-uses-which-are-"not-very-effective."
+111	filter Reduces-damage-from-supereffective-moves-by-1/4.
+112	slow-start For-five-turns,-the-Pokemon's-Attack-and-Speed-stats-are-halved.
+113	scrappy This-Pokemon-can-hit-Ghost-type-Pokemon-with-Normal-and-Fighting-type-moves.
+114	storm-drain Draws-in-all-Water-type-moves.-Instead-of-being-hit-by-Water-type-moves,-it-boosts-its-Sp.Atk.
+115	ice-body During-hail,-a-Pokemon-with-Ice-Body-will-regain-1/16-of-its-maximum-HP-at-the-end-of-each-turn.
+116	solid-rock Reduces-damage-from-supereffective-moves-by-1/4.
+117	snow-warning Summons-a-hailstorm-upon-entering-battle.
+118	honey-gather The-Pokemon-may-gather-Honey-after-a-battle.(No-in-battle-usage.)
+119	frisk Upon-entering-battle,-the-Pokemon-checks-the-opposing-Pokemon's-held-item.
+120	reckless Powers-up-moves-with-recoil-damage-by-20%,-except-Struggle.
+121	multitype Changes-the-Pokemon's-type-to-match-the-Plate-or-Z_Crystal-it-holds.
+122	flower-gift During-harsh-sunlight,-increases-the-Attack-and-Sp.Def.-stats-of-the-Pokemon-with-this-ability-and-its-allies-by-1.5x.
+123	bad-dreams At-the-end-of-each-turn,-each-adjacent-sleeping-opponent-takes-damage-equal-to-1/8-of-its-maximum-HP.
+124	pickpocket Steals-an-item-from-an-attacker-that-made-direct-contact.
+125	sheer-force Raises-the-base-power-of-all-damaging-moves-that-have-any-additional-effects-by-30%,-but-their-additional-effects-are-ignored.
+126	contrary Makes-stat-changes-have-the-opposite-effect.
+127	unnerve Makes-opposing-Pokemon-unable-to-eat-berries.
+128	defiant Boosts-the-Pokemon's-Attack-stat-by-2-stages-when-its-stats-are-lowered.
+129	defeatist Halves-the-Pokemon's-Attack-and-Sp.Atk-stats-when-its-HP-becomes-half-or-less.
+130	cursed-body When-a-Pokemon-with-this-Ability-is-hit-by-a-damaging-move,-there-is-a-30%-chance-that-the-attack-will-be-disabled-for-4-turns.
+131	healer At-the-end-of-each-turn,-has-a-30%-chance-of-curing-an-adjacent-ally's-status-condition.
+132	friend-guard Reduces-the-damage-done-to-allies-by-25%.
+133	weak-armor When-hit-by-a-physical-move,-Defense-is-decreased-by-1-stage-and-Speed-is-increased-by-2.
+134	heavy-metal Doubles-the-Pokemon's-weight,-affecting-moves-that-take-weight-into-consideration.
+135	light-metal Halves-the-Pokemon's-weight,-affecting-moves-that-take-weight-into-consideration.
+136	multiscale Reduces-damage-taken-from-damage-dealing-moves-by-half-when-at-maximum-HP.
+137	toxic-boost Powers-up-physical-attacks-by-50%-when-poisoned.
+138	flare-boost Powers-up-special-moves-by-50%-when-burned.
+139	harvest If-the-Pokemon-has-used-a-berry,-there-is-a-50%-chance-of-it-being-restored-at-the-end-of-each-turn.
+140	telepathy Avoids-damaging-moves-used-by-allies.
+141	moody At-the-end-of-each-turn,-raises-one-of-the-stats-by-2-stages,-then-decreases-another-stat-by-1-stage-(at-random.)
+142	overcoat Protects-the-Pokemon-from-damage-caused-by-sandstorms-and-hail.-Also-protects-from-powder-and-spores-moves,-as-well-as-Effect-Spore.
+143	poison-touch If-the-Pokemon-with-this-Ability-uses-a-move-that-makes-contact-,there-is-a-30%-chance-the-target-will-become-poisoned.
+144	regenerator Restores-1/3-of-the-Pokemon's-maximum-HP-upon-switching-out.
+145	big-pecks Prevents-other-Pokemon-from-lowering-the-Defense-stat-of-the-Pokemon-with-this-Ability.
+146	sand-rush During-a-sandstorm,-the-Speed-stat-of-Pokemon-with-this-Ability-is-doubled.
+147	wonder-skin Changes-the-accuracy-of-status-moves-used-against-the-Pokemon-with-this-Ability-to-50%.
+148	analytic If-this-Pokemon-moves-last,-its-attack-will-be-boosted-by-30%-for-that-turn.
+149	illusion This-Pokemon-will-come-out-disguised-as-the-Pokemon-in-the-party's-last-slot.
+150	imposter Upon-entering-battle,-the-Pokemon-will-transform-into-the-Pokemon-its-facing.
+151	infiltrator Ignores-the-effects-of-a-target's-Reflect,-Light-Screen,-Safeguard,-Mist,-Substitute,-and-Aurora-Veil.
+152	mummy When-a-Pokemon-with-Mummy-is-hit-by-a-move-that-makes-contact,-the-Ability-of-the-attacking-Pokemon-will-become-Mummy.-It-does-not-have-any-other-effect.
+153	moxie Boosts-the-Attack-stat-by-one-stage-after-knocking-out-any-Pokemon.
+154	justified Being-hit-by-a-Dark_type-moves-boosts-the-Attack-stat-by-one-stage.
+155	rattled When-hit-by-a-Bug,-Dark,-or-Ghost_type-damaging-move,-this-Pokemon's-Speed-stat-is-increased-by-one-stage.
+156	magic-bounce Reflects-the-effect-of-all-stat_lowering-status-moves,-status-condition_inducing-status-moves,-entry-hazard-moves,-Taunt,-Torment,-etc.-back-to-the-user.
+157	sap-sipper When-hit-by-a-Grass_type-move,-this-Pokemon's-Attack-is-increased-by-one-stage-instead-of-taking-damage.
+158	prankster Increases-the-priority-of-status-moves-by-1.-Dark-type-Pokemon-are-immune-to-moves-that-have-gained-priority-from-Prankster.
+159	sand-force Increases-the-power-of-Rock,-Ground,-and-Steel_type-moves-by-30%-during-a-sandstorm.
+160	iron-barbs When-hit-by-a-move-that-makes-contact,-the-attacking-Pokemon-takes-damage-equal-to-1/8-of-its-own-maximum-HP.
+161	zen-mode Below-50%-health,-Darmanitan-will-change-into-its-Zen-Mode.-Its-stats-will-change-and-its-type-becomes-Fire/Psychic.
+162	victory-star Increases-the-accuracy-of-moves-used-by-the-Pokemon-with-this-Ability-and-its-allies-in-battle-by-10%-of-their-original-accuracy.
+163	turboblaze Moves-can-be-used-on-the-target-regardless-of-its-Abilities.
+164	teravolt Moves-can-be-used-on-the-target-regardless-of-its-Abilities.
+165	aroma-veil Prevents-the-Pokemon-with-this-Ability-and-its-allies-from-being-afflicted-by-Taunt,-Torment,-Encore,-Disabled,-Cursed-Body,-Heal-Block,-and-infatuation.
+166	flower-veil Ally-Grass_type-Pokemon-are-protected-from-status-conditions-and-the-lowering-of-their-stats.
+167	cheek-pouch Restores-33%-of-the-Pokemon's-maximum-HP-when-it-consumes-a-Berry,-after-the-effect-of-the-Berry-is-applied.
+168	protean Changes-the-Pokemon's-type-to-the-type-of-the-move-it's-about-to-use.
+169	fur-coat Doubles-the-Defense-stat-of-the-Pokemon-with-this-Ability.
+170	magician The-Pokemon-steals-the-held-item-of-a-Pokemon-it-hits-with-a-move.
+171	bulletproof Protects-the-Pokemon-from-ball-and-bomb-moves,-as-well-as-some-cannon_based-and-blast_based-attacks.
+172	competitive Boosts-the-Sp.Atk-stat-by-2-stages-when-a-stat-is-lowered.
+173	strong-jaw Increases-the-power-of-the-Pokemon's-biting-moves-by-50%.
+174	refrigerate Normal-type-moves-used-by-the-Pokemon-become-Ice_type-and-receive-a-30%-power-boost.
+175	sweet-veil Prevents-itself-and-ally-Pokemon-from-falling-asleep.
+176	stance-change Allows-Aegislash-to-switch-between-Shield-Forme-(high-defensive-stats,-low-offensive-stats)-and-Blade-Forme-(high-offensive-stats,-low-defensive-stats.)
+177	gale-wings Increases-the-priority-of-Flying_type-moves-by-1-if-the-user-has-full-HP.
+178	mega-launcher Boosts-the-strength-of-aura-and-pulse-moves-used-by-a-Pokemon-with-this-ability-by-50%.-Heal-Pulse-heals-75%-of-the-target's-maximum-HP-rather-than-the-usual-50%.
+179	grass-pelt When-Grassy-Terrain-is-active,-the-Defense-of-the-Pokemon-with-this-Ability-is-increased-by-50%.
+180	symbiosis The-Pokemon-passes-its-item-to-an-ally-that-has-used-up-an-item.
+181	tough-claws Boosts-the-power-of-the-Pokemon's-contact-moves-by-30%.
+182	pixilate Causes-all-Normal_type-moves-used-by-the-Pokemon-to-become-Fairy_type-and-receive-a-30%-power-boost.
+183	gooey Contact-with-the-Pokemon-lowers-the-attacker's-Speed-stat-by-1-stage.
+184	aerilate Causes-all-Normal_type-moves-used-by-the-Pokemon-to-become-Flying_type-and-receive-a-30%-power-boost.
+185	parental-bond Causes-most-damagin-moves-by-the-Pokemon-to-become-two_strike-moves,-with-the-second-attack-being-half-as-strong-as-the-first.-Does-not-affect-multi_strike-moves.
+186	dark-aura Increases-the-damage-dealt-by-Dark_type-attacks-by-33%-for-all-Pokemon-on-the-field.
+187	fairy-aura Increases-the-damage-dealt-by-Fairy_type-attacks-by-33%-for-all-Pokemon-on-the-field.
+188	aura-break Inverts-the-effects-of-Fairy-Aura-and-Dark-Aura,-lowering-their-power-instead.
+189	primordial-sea When-a-Pokemon-with-this-Ability-enters-battle,-it-creates-heavy-rain.-This-unique-weather-condition-lasts-as-long-as-the-Pokemon-with-this-Ability-is-out,-and-also-causes-damage_dealing-Fire_type-moves-to-fail.
+190	desolate-land When-a-Pokemon-with-this-Ability-enters-battle,-it-creates-extremely-harsh-sunlight.-This-unique-weather-condition-lasts-as-long-as-the-Pokemon-with-this-Ability-is-out,-and-also-causes-damage_dealing-Water_type-moves-to-fail.
+191	delta-stream When-a-Pokemon-with-this-Ability-enters-battle,-it-creates-a-mysterious-air-current.-This-unique-weather-condition-lasts-as-long-as-the-Pokemon-with-this-Ability-is-out,-and-also-causes-moves-that-would-be-super-effective-against-Flying_type-Pokemon-to-deal-neutral-damage.
+192	stamina Boosts-Defense-by-1-stage-when-hit-by-an-attack.
+193	wimp-out When-the-Pokemon-drops-below-half-of-its-full-HP,-it-will-switch-out.
+194	emergency-exit When-the-Pokemon-drops-below-half-of-its-full-HP,-it-will-switch-out.
+195	water-compaction When-hit-by-a-Water_type-move,-its-Defense-is-raised-by-2-stages.
+196	merciless The-Pokemon's-attacks-become-critical-hits-if-the-target-is-poisoned.
+197	shields-down Changes-Minior-to-its-Meteor-Form-if,-at-the-beginning-of-battle-or-end-of-the-turn,-it-is-below-50%-of-its-max-health.
+198	stakeout Doubles-the-power-of-moves-used-against-targets-that-have-switched-in-this-turn.
+199	water-bubble Halves-the-damage-dealt-to-the-Pokemon-by-Fire_type-attacks,-and-doubles-the-power-of-Water_type-moves-used-by-the-Pokemon-with-this-Ability.
+200	steelworker Boosts-the-power-of-the-user's-Steel_type-moves-by-50%.
+201	berserk Every-time-the-HP-of-a-Pokemon-with-Berserk-drops-below-half,-its-Sp.Atk-is-raised-by-1-stage.
+202	slush-rush During-a-hailstorm,-the-Pokemon's-Speed-stat-is-doubled.
+203	long-reach The-Pokemon-uses-its-moves-without-making-contact-with-the-target.-Does-not-activate-effects-caused-by-contact.
+204	liquid-voice Turns-the-Pokemon's-sound_based-moves-into-Water_type-moves.
+205	triage Increases-the-priority-of-moves-that-restore-HP-by-3,-including-both-damaging-moves-and-status-moves.
+206	galvanize Normal_type-moves-become-Electric_type-moves-and-receive-a-20%-power-boost.
+207	surge-surfer Doubles-the-Pokemon's-Speed-stat-on-Electric-Terrain.
+208	schooling Above-25%-HP,-the-Pokemon-changes-into-its-School-Form.-This-form-is-lost-when-HP-falls-below-25%.
+209	disguise Once-per-battle,-the-Pokemon-is-protected-from-a-damaging-attack.
+210	battle-bond When-Greninja-with-this-Ability-causes-another-Pokemon-to-faint-by-a-damaging-move,-it-will-change-into-Ash_Greninja.-Water-Shuriken's-power-becomes-20-and-will-always-hit-3-times.
+211	power-construct At-the-end-of-a-turn,-if-the-HP-of-a-Zygarde-10%-Forme-or-50%-Forme-with-Power-Construct-is-below-half,-it-changes-into-Complete-Form.
+212	corrosion The-Pokemon-can-poison-the-target-even-if-it's-a-Steel-or-Poison-type.
+213	comatose Makes-the-user-act-as-if-it-were-asleep,-without-inflicting-the-status.
+214	queenly-majesty Prevents-opposing-Pokemon-from-using-priority-moves-on-the-Pokemon-with-this-ability-or-its-allies.
+215	innards-out Damages-the-attacker-landing-the-finishing-hit-by-the-amount-equal-to-the-amount-of-HP-it-had-left-before-last-being-hit.
+216	dancer Whenever-another-Pokemon-uses-a-dance-move,-a-Pokemon-with-this-Ability-will-immediately-use-that-move-as-well.
+217	battery Raises-the-power-of-allies'-special-moves-by-30%.
+218	fluffy Halves-damage-from-moves-that-make-contact-but-also-takes-double-damage-from-Fire_type-attacks.-Fire_type-attacks-that-make-contact-deal-regular-damage.
+219	dazzling Prevents-opposing-Pokemon-using-priority-moves-on-the-Pokemon-with-this-Ability-and-its-allies.
+220	soul-heart Raises-the-user's-Sp.Atk-by-1-stage-every-time-a-Pokemon-in-the-area-faints.
+221	tangling-hair When-a-Pokemon-with-this-Ability-is-hit-by-a-move-that-makes-contact,-the-Speed-stat-of-the-attacking-Pokemon-is-decreased-by-1-stage.
+222	receiver Copies-the-Ability-of-a-defeated-ally.
+223	power-of-alchemy Copies-the-Ability-of-a-defeated-ally.
+224	beast-boost The-Pokemon-boosts-its-highest-stat-by-1-stage-after-it-directly-causes-another-Pokemon-to-faint-with-a-damaging-move.
+225	rks-system Changes-the-Pokemon's-type-to-match-the-memory-disc-it-holds.
+226	electric-surge Upon-entering-battle,-this-Pokemon-will-set-up-Electric-Terrain.
+227	psychic-surge Upon-entering-battle,-this-Pokemon-will-set-up-Psychic-Terrain.
+228	misty-surge Upon-entering-battle,-this-Pokemon-will-set-up-Misty-Terrain.
+229	grassy-surge Upon-entering-battle,-this-Pokemon-will-set-up-Grassy-Terrain.
+230	full-metal-body Prevents-stat-reduction-caused-by-another-Pokemon's-move-or-Ability.
+231	shadow-shield Reduces-damage-taken-from-damage_dealing-moves-by-half-when-at-maximum-HP.
+232	prism-armor Reduces-damage-from-superfeffective-moves-by-1/4.
+233	neuroforce Increases-the-power-of-moves-which-would-be-super-effective-by-20%.
