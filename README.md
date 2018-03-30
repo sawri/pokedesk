@@ -11,6 +11,7 @@ This program only applies to Generation 7.
 # To-Do:
 
 * Add the option to look up moves.
+* Add the option to look up which Pokemon have a certain Ability.
 * Removes useless forms like the million Pikachu forms..
 
 # Credits to:
